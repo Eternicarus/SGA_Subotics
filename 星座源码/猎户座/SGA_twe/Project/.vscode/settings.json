@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "threadpool.h": "c",
+        "task_conf.h": "c",
+        "task_handlemode.h": "c",
+        "usercode.h": "c",
+        "task_motioncontrol.h": "c",
+        "drv_hal_conf.h": "c",
+        "task_thruster.h": "c",
+        "task_sysinit.h": "c",
+        "stdint.h": "c",
+        "ocd_jy901.h": "c",
+        "task_analysisdata.h": "c",
+        "ocd_conf.h": "c",
+        "ocd_ms5837.h": "c",
+        "task_balance.h": "c"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "task_conf.h": "c",
+            "task_thruster.h": "c",
+            "config.h": "c",
+            "task_analysisdata.h": "c",
+            "usercode.h": "c",
+            "sstream": "c",
+            "task_handlemode.h": "c",
+            "task_automode.h": "c",
+            "drv_hal_conf.h": "c",
+            "threadpool.h": "c",
+            "stdint.h": "c",
+            "task_depthcontrol.h": "c",
+            "task_balance.h": "c",
+            "main.h": "c"
+        }
+    },
+    "extensions": {}
+}
