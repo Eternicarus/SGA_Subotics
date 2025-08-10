@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations,,,,,,,
+E:\Altium Designer开发\IM板相关\IM_V1.0\Project Outputs for IM\Pick Place for IM.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       12/06/23,,,,,,,
+Time:       22:14,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+3.3V,绿灯 0603,TopLayer,0603_LED,24.892,30.48,90,贴片LED
+U5,SDCard,TopLayer,TF-Micro,10.9015,14.962,270,
+R46,1kΩ,TopLayer,0603_R,28.956,31.369,180,贴片电阻
+R1,0Ω (0R0) ±1%,TopLayer,0603_R,54.003,29.464,180,贴片电阻
+JP3,Header 2X25,TopLayer,HDR2.54-LI-2X25P,32.131,35.941,180,25*2P接插件
+JP2,Header 2X25,TopLayer,HDR2.54-LI-2X25P,32.131,2.921,360,25*2P接插件
+JP1,HDR-1X2,TopLayer,HDR2.54-LI-2P,1.651,30.734,90,2P接插件
+U4,STM32F103VCT6,TopLayer,LQFP100_14x14_N,37.846,20.1928,270,"STM32 ARM-based 32-bit MCU Value Line with 512 kB Flash, 32 kB Internal RAM, -40 to +85癈 Temperature, 100-Pin LQFP, Tray"
+SWD1,SWD,TopLayer,HDR2.54-LI-4P,58.674,31.877,180,
+R16,4.7K,TopLayer,0603_R,20.701,20.066,180,
+R15,4.7K,TopLayer,0603_R,20.701,15.621,180,
+R10,4.7K,BottomLayer,0603_R,11.938,30.988,90,
+R9,4.7K,BottomLayer,0603_R,10.033,30.988,90,
+R8,4.7K,BottomLayer,0603_R,8.128,30.988,90,
+R3,4.7K,TopLayer,0603_R,20.701,12.319,360,
+R2,4.7K,TopLayer,0603_R,24.757,15.24,360,
+Q1,AO3401A P道沟,TopLayer,SOT-23(SOT-23-3),5.715,30.861,360,MOS(场效应管)
+Y1,无源晶振,BottomLayer,OSC_3215-2P,16.256,27.813,90,Crystal Oscillator
+X1,8.000M,TopLayer,OSC_5032-2P,20.574,24.638,90,
+U*1,Timer,BottomLayer,MSOP8_M,10.668,27.106,270,
+U3,AT24C02,TopLayer,SOP8_N,25.916,10.414,90,"8 lead ssop,2k/2048bits"
+U1,HT7533/ME6210A33PG,TopLayer,SOT-89(SOT-89-3),15.26,28.091,0,低压差线性稳压(LDO)
+R14,10KΩ (1002) ±1%,TopLayer,0603_R,12.192,24.384,360,贴片电阻
+R13,10KΩ (1002) ±1%,TopLayer,0603_R,32.6788,31.496,180,贴片电阻
+R7,1KΩ,TopLayer,0603_R,54.356,8.763,360,贴片电阻
+R6,1KΩ,TopLayer,0603_R,54.356,6.985,360,贴片电阻
+R5,1KΩ,TopLayer,0603_R,57.15,7.747,90,贴片电阻
+RESET,KEY,TopLayer,key-2,6.3317,26.217,180,Switch
+LED1,67-23/R6GHBHC-B05/2T,TopLayer,LED_3528-4Pin,60.96,7.747,360,三基色LED
+C17,0.1uF,TopLayer,0603_C,20.701,18.161,180,
+C16,100nF (104) 10% 50V,TopLayer,0603_C,15.629,24.511,180,贴片电容
+C15,22P,TopLayer,0603_C,24.249,20.574,180,
+C14,22P,TopLayer,0603_C,24.249,22.479,180,
+C13,0.1u,BottomLayer,0603_C,4.572,26.924,180,
+C12,0.1u,TopLayer,0603_C,28.956,29.21,180,
+C11,0.1u,TopLayer,0603_C,45.212,30.861,270,
+C10,0.1u,TopLayer,0603_C,44.3634,8.255,360,
+C9,0.1u,TopLayer,0603_C,24.249,16.9458,360,
+C8,0.1u,TopLayer,0603_C,24.249,18.6928,360,
+C7,0.1u,TopLayer,0603_C,24.757,24.257,360,
+C6,0.1u,TopLayer,0603_C,24.757,26.035,360,
+C1,0.1u,TopLayer,0603_C,57.404,29.464,360,
+C5,0.1u,TopLayer,0603_C,20.701,13.97,360,
+C4,10u/25v,TopLayer,SMD-3225-2P,10.2616,31.8088,360,
+C3,0.1u,TopLayer,0603_C,15.621,31.811,360,
+C2,0.1u,TopLayer,0603_C,10.541,29.083,180,
+B1,BAT,BottomLayer,BAT,10.5029,14.4018,270,

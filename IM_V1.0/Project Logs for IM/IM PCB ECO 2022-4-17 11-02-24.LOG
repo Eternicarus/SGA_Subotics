@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=DGND Pin=C22-1
+Removed Pin From Net: NetName=DGND Pin=C23-1
+Removed Pin From Net: NetName=DGND Pin=C24-1
+Removed Pin From Net: NetName=DGND Pin=C25-1
+Removed Pin From Net: NetName=DGND Pin=C26-1
+Removed Pin From Net: NetName=DGND Pin=C27-1
+Removed Pin From Net: NetName=DGND Pin=C28-1
+Removed Pin From Net: NetName=DGND Pin=C29-1
+Removed Pin From Net: NetName=DGND Pin=C30-1
+Removed Pin From Net: NetName=DGND Pin=C31-1
+Removed Pin From Net: NetName=DGND Pin=C32-1
+Removed Pin From Net: NetName=DGND Pin=C37-1
+Removed Pin From Net: NetName=DGND Pin=C38-1
+Removed Pin From Net: NetName=DGND Pin=C39-1
+Removed Pin From Net: NetName=DGND Pin=C40-1
+Removed Pin From Net: NetName=DGND Pin=C41-1
+Removed Pin From Net: NetName=DGND Pin=C42-1
+Removed Pin From Net: NetName=DGND Pin=C43-1
+Removed Pin From Net: NetName=DGND Pin=C44-1
+Removed Pin From Net: NetName=DGND Pin=JP5-2
+Removed Pin From Net: NetName=3V3 Pin=Q2-2
+Removed Pin From Net: NetName=PB14 Pin=R22-1
+Removed Pin From Net: NetName=DGND Pin=R23-1
+Removed Pin From Net: NetName=DGND Pin=R45-2
+Removed Pin From Net: NetName=AD_PWR Pin=R46-1
+Removed Pin From Net: NetName=NetJP3_2 Pin=U2-6
+Removed Pin From Net: NetName=DGND Pin=U7-8
+Removed Pin From Net: NetName=PB14 Pin=U7-14
+Removed Pin From Net: NetName=PB15 Pin=U7-15
+Removed Pin From Net: NetName=PB13 Pin=U7-16
+Removed Pin From Net: NetName=PB12 Pin=U7-17
+Removed Pin From Net: NetName=DGND Pin=U7-21
+Removed Pin From Net: NetName=DGND Pin=U7-30
+Removed Pin From Net: NetName=DGND Pin=U7-31
+Removed Pin From Net: NetName=DGND Pin=U7-32
+Removed Pin From Net: NetName=DGND Pin=U7-33
+Removed Pin From Net: NetName=DGND Pin=U7-41
+Removed Pin From Net: NetName=DGND Pin=Z1-1
+Removed Pin From Net: NetName=DGND Pin=Z2-1
+Removed Pin From Net: NetName=DGND Pin=Z3-1
+Removed Pin From Net: NetName=DGND Pin=Z4-1
+Removed Pin From Net: NetName=DGND Pin=Z5-1
+Removed Pin From Net: NetName=DGND Pin=Z6-1
+Removed Pin From Net: NetName=DGND Pin=Z7-1
+Removed Pin From Net: NetName=DGND Pin=Z8-1
+Removed Pin From Net: NetName=DGND Pin=Z9-1
+Removed Pin From Net: NetName=DGND Pin=Z10-1
+Removed Pin From Net: NetName=DGND Pin=Z11-1
+Removed Pin From Net: NetName=DGND Pin=Z12-1
+Removed Pin From Net: NetName=DGND Pin=Z13-1
+Removed Member From Class: ClassName=mcu_core Member=Q2
+Removed Member From Class: ClassName=mcu_core Member=R45
+Change Component Comment : Designator=R46 Old Comment=0Ω New Comment=1kΩ
+Change Component Comment : Designator=R5 Old Comment=1KΩ  New Comment=1KΩ
+Change Component Comment : Designator=R6 Old Comment=1KΩ  New Comment=1KΩ
+Change Component Comment : Designator=R7 Old Comment=1KΩ  New Comment=1KΩ
+Change Component Comment : Designator=R2 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R3 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R8 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R9 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R10 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R15 Old Comment=5.1K New Comment=4.7K
+Change Component Comment : Designator=R16 Old Comment=5.1K New Comment=4.7K
+Added Component: Designator=3.3V(0603_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2659.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C2286"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=3.3V-K
+Added Pin To Net: NetName=3V3 Pin=R46-1
+Change Net Name : Old Net Name=DGND New Net Name=GND
+Added Pin To Net: NetName=Net3.3V_A Pin=3.3V-A
+Added Pin To Net: NetName=Net3.3V_A Pin=R46-2
+Added Net: Name=Net3.3V_A
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Net: Name=NetU2_6
+Change Class Name : Old Net Name=mcu_core New Net Name=IM
+Added Member To Class: ClassName=IM Member=Component 3.3V 绿灯 0603
