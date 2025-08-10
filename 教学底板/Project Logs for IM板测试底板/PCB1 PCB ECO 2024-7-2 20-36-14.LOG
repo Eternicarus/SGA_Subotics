@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=USB-6
+Removed Pin From Net: NetName=GND Pin=USB-7
+Removed Pin From Net: NetName=GND Pin=USB-8
+Removed Pin From Net: NetName=GND Pin=USB-9
+Change Component Footprint: Designator=USB Old Footprint=MICRO-USB-SMD_MICROXNJ New Footprint=USB-MINI-A
+Change Component Comment : Designator=USB Old Comment=MicroXNJ New Comment=USB-5P
+Change component parameters: Designator = "USB" ("USB"); Footprint = "MICRO-USB-SMD_MICROXNJ"; UniqueID = "\PPLVCYHU" ("\PPLVCYHU")
+Change component parameters (AddParameter): Name = "BOM名称"; Value = "微型USB母座"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1

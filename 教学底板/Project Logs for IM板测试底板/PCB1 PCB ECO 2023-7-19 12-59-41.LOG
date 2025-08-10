@@ -1,0 +1,44 @@
+Added Component: Designator=R10(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Pin To Net: NetName=PC6 Pin=R10-2
+Added Pin To Net: NetName=5V Pin=R11-1
+Added Pin To Net: NetName=PC7 Pin=R11-2
+Added Pin To Net: NetName=5V Pin=R12-1
+Added Pin To Net: NetName=PC8 Pin=R12-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=PC9 Pin=R13-2
+Added Member To Class: ClassName=Sheet1 Member=Component R10 10KΩ (1002) ±1%
+Added Member To Class: ClassName=Sheet1 Member=Component R11 10KΩ (1002) ±1%
+Added Member To Class: ClassName=Sheet1 Member=Component R12 10KΩ (1002) ±1%
+Added Member To Class: ClassName=Sheet1 Member=Component R13 10KΩ (1002) ±1%

@@ -1,0 +1,53 @@
+Added Component: Designator=JP5(HDR-TH_20P-P2.54-V-M-R2-C10-S2.54)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circluar Pins/Square Pins"; Value = "·½Õë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "ºÚÉ«"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "PZ254V-12-20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x10P Ö±²å ·½Õë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of End Connection Pin"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length of Mating Pin"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XFCN(ÐË·É)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "PZ254V-12-20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PZ254V-12-20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "Ë«ÅÅ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Structure"; Value = "2x10P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "Ö±²å,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C492427"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "PZ254V-12-20P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP5-1
+Added Pin To Net: NetName=GND Pin=JP5-2
+Added Pin To Net: NetName=PE9 Pin=JP5-3
+Added Pin To Net: NetName=PE11 Pin=JP5-4
+Added Pin To Net: NetName=PE13 Pin=JP5-5
+Added Pin To Net: NetName=PE14 Pin=JP5-6
+Added Pin To Net: NetName=PB4 Pin=JP5-7
+Added Pin To Net: NetName=PB5 Pin=JP5-8
+Added Pin To Net: NetName=PB0 Pin=JP5-9
+Added Pin To Net: NetName=PB1 Pin=JP5-10
+Added Pin To Net: NetName=PB6 Pin=JP5-11
+Added Pin To Net: NetName=PB7 Pin=JP5-12
+Added Pin To Net: NetName=PB8 Pin=JP5-13
+Added Pin To Net: NetName=PB9 Pin=JP5-14
+Added Pin To Net: NetName=PC6 Pin=JP5-15
+Added Pin To Net: NetName=PC7 Pin=JP5-16
+Added Pin To Net: NetName=PC8 Pin=JP5-17
+Added Pin To Net: NetName=PC9 Pin=JP5-18
+Added Pin To Net: NetName=5V Pin=JP5-19
+Added Pin To Net: NetName=5V Pin=JP5-20
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 PZ254V-12-20P
+Added Room: Name=Sheet1

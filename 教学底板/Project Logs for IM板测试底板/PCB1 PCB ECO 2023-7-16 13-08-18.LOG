@@ -1,0 +1,233 @@
+Change Component Designator: OldDesignator=USB?? NewDesignator=USB
+Added Component: Designator=JP1(HDR-TH_50P-P2.54-V-F-R2-C25-S2.54-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181220/C350296_D2530F60C4B7AD26B2D0A354C76F8429.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x25P Y型//环保耐高温/镀金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "华宇创"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "50P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C350296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR-TH_50P-P2.54-V-F-R2-C25-S2.54-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181220/C350296_D2530F60C4B7AD26B2D0A354C76F8429.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x25P Y型//环保耐高温/镀金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "华宇创"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "50P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C350296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(KF350-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-16_150mil)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.maxim-ic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://item.szlcsc.com/18956.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "NSO16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-Jan-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOIC-8_150MIL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "MAXIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "MAX3485ESA+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C18148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C18148.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://item.szlcsc.com/18840.html"; VariantName = "[No Variations]"
+Added Component: Designator=UART1(XH2.54-WI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=UART2(XH2.54-WI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=UART3(XH2.54-WI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=UART4(XH2.54-WI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=UART5(XH2.54-WI-2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM名称"; Value = "2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA14 Pin=FPC1-4
+Added Pin To Net: NetName=PA13 Pin=FPC1-5
+Added Pin To Net: NetName=NRST Pin=JP1-1
+Added Pin To Net: NetName=PC0 Pin=JP1-2
+Added Pin To Net: NetName=PC1 Pin=JP1-3
+Added Pin To Net: NetName=PC2 Pin=JP1-4
+Added Pin To Net: NetName=PC3 Pin=JP1-5
+Added Pin To Net: NetName=PA0 Pin=JP1-6
+Added Pin To Net: NetName=PA1 Pin=JP1-7
+Added Pin To Net: NetName=PA2 Pin=JP1-8
+Added Pin To Net: NetName=PA3 Pin=JP1-9
+Added Pin To Net: NetName=PA4 Pin=JP1-10
+Added Pin To Net: NetName=PA5 Pin=JP1-11
+Added Pin To Net: NetName=PA6 Pin=JP1-12
+Added Pin To Net: NetName=PA7 Pin=JP1-13
+Added Pin To Net: NetName=PC4 Pin=JP1-14
+Added Pin To Net: NetName=PC5 Pin=JP1-15
+Added Pin To Net: NetName=PB0 Pin=JP1-16
+Added Pin To Net: NetName=PB1 Pin=JP1-17
+Added Pin To Net: NetName=PB2 Pin=JP1-18
+Added Pin To Net: NetName=PE7 Pin=JP1-19
+Added Pin To Net: NetName=PE8 Pin=JP1-20
+Added Pin To Net: NetName=PA14 Pin=JP1-21
+Added Pin To Net: NetName=PE10 Pin=JP1-22
+Added Pin To Net: NetName=PA13 Pin=JP1-23
+Added Pin To Net: NetName=PE12 Pin=JP1-24
+Added Pin To Net: NetName=PE13 Pin=JP1-25
+Added Pin To Net: NetName=PE14 Pin=JP1-26
+Added Pin To Net: NetName=PE15 Pin=JP1-27
+Added Pin To Net: NetName=PB10 Pin=JP1-28
+Added Pin To Net: NetName=PB11 Pin=JP1-29
+Added Pin To Net: NetName=PB12 Pin=JP1-30
+Added Pin To Net: NetName=PB13 Pin=JP1-31
+Added Pin To Net: NetName=PB14 Pin=JP1-32
+Added Pin To Net: NetName=PB15 Pin=JP1-33
+Added Pin To Net: NetName=PD8 Pin=JP1-34
+Added Pin To Net: NetName=PD9 Pin=JP1-35
+Added Pin To Net: NetName=PD10 Pin=JP1-36
+Added Pin To Net: NetName=PD11 Pin=JP1-37
+Added Pin To Net: NetName=PD12 Pin=JP1-38
+Added Pin To Net: NetName=PD13 Pin=JP1-39
+Added Pin To Net: NetName=PD14 Pin=JP1-40
+Added Pin To Net: NetName=PD15 Pin=JP1-41
+Added Pin To Net: NetName=GND Pin=JP1-50
+Added Pin To Net: NetName=PC6 Pin=JP2-8
+Added Pin To Net: NetName=PC7 Pin=JP2-9
+Added Pin To Net: NetName=PC8 Pin=JP2-10
+Added Pin To Net: NetName=PC9 Pin=JP2-11
+Added Pin To Net: NetName=PA8 Pin=JP2-12
+Added Pin To Net: NetName=PA9 Pin=JP2-13
+Added Pin To Net: NetName=PA10 Pin=JP2-14
+Added Pin To Net: NetName=PA11 Pin=JP2-15
+Added Pin To Net: NetName=PA12 Pin=JP2-16
+Added Pin To Net: NetName=PA13 Pin=JP2-17
+Added Pin To Net: NetName=PA14 Pin=JP2-18
+Added Pin To Net: NetName=PA15 Pin=JP2-19
+Added Pin To Net: NetName=PC10 Pin=JP2-20
+Added Pin To Net: NetName=PC11 Pin=JP2-21
+Added Pin To Net: NetName=PC12 Pin=JP2-22
+Added Pin To Net: NetName=PD0 Pin=JP2-23
+Added Pin To Net: NetName=PD1 Pin=JP2-24
+Added Pin To Net: NetName=PD2 Pin=JP2-25
+Added Pin To Net: NetName=PD3 Pin=JP2-26
+Added Pin To Net: NetName=PD4 Pin=JP2-27
+Added Pin To Net: NetName=PD5 Pin=JP2-28
+Added Pin To Net: NetName=PD6 Pin=JP2-29
+Added Pin To Net: NetName=PD7 Pin=JP2-30
+Added Pin To Net: NetName=PB3 Pin=JP2-31
+Added Pin To Net: NetName=PB4 Pin=JP2-32
+Added Pin To Net: NetName=PB5 Pin=JP2-33
+Added Pin To Net: NetName=PB6 Pin=JP2-34
+Added Pin To Net: NetName=PB7 Pin=JP2-35
+Added Pin To Net: NetName=BOOT0 Pin=JP2-36
+Added Pin To Net: NetName=PB8 Pin=JP2-37
+Added Pin To Net: NetName=PB9 Pin=JP2-38
+Added Pin To Net: NetName=PE0 Pin=JP2-39
+Added Pin To Net: NetName=PE1 Pin=JP2-40
+Added Pin To Net: NetName=PE2 Pin=JP2-41
+Added Pin To Net: NetName=PE3 Pin=JP2-42
+Added Pin To Net: NetName=PE4 Pin=JP2-43
+Added Pin To Net: NetName=PE5 Pin=JP2-44
+Added Pin To Net: NetName=PE6 Pin=JP2-45
+Added Pin To Net: NetName=PC13 Pin=JP2-46
+Added Pin To Net: NetName=PC14 Pin=JP2-47
+Added Pin To Net: NetName=PC15 Pin=JP2-48
+Added Pin To Net: NetName=GND Pin=JP2-49
+Added Pin To Net: NetName=5V Pin=JP2-50
+Added Pin To Net: NetName=5V Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=NetC11_2 Pin=U3-1
+Added Pin To Net: NetName=NetC13_1 Pin=U3-2
+Added Pin To Net: NetName=NetC11_1 Pin=U3-3
+Added Pin To Net: NetName=NetC12_1 Pin=U3-4
+Added Pin To Net: NetName=NetC12_2 Pin=U3-5
+Added Pin To Net: NetName=NetC15_1 Pin=U3-6
+Added Pin To Net: NetName=PB10 Pin=U3-11
+Added Pin To Net: NetName=PB11 Pin=U3-12
+Added Pin To Net: NetName=232RX Pin=U3-13
+Added Pin To Net: NetName=232TX Pin=U3-14
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Pin To Net: NetName=5V Pin=U3-16
+Added Pin To Net: NetName=PC11 Pin=U4-1
+Added Pin To Net: NetName=PE15 Pin=U4-2
+Added Pin To Net: NetName=PE15 Pin=U4-3
+Added Pin To Net: NetName=PC10 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=485_P Pin=U4-6
+Added Pin To Net: NetName=485_N Pin=U4-7
+Added Pin To Net: NetName=5V Pin=U4-8
+Added Pin To Net: NetName=PA9 Pin=UART1-1
+Added Pin To Net: NetName=PA10 Pin=UART1-2
+Added Pin To Net: NetName=PA2 Pin=UART2-1
+Added Pin To Net: NetName=PA3 Pin=UART2-2
+Added Pin To Net: NetName=PB10 Pin=UART3-1
+Added Pin To Net: NetName=PB11 Pin=UART3-2
+Added Pin To Net: NetName=PC10 Pin=UART4-1
+Added Pin To Net: NetName=PC11 Pin=UART4-2
+Added Pin To Net: NetName=PC12 Pin=UART5-1
+Added Pin To Net: NetName=PD2 Pin=UART5-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 2685Y-225CNG1SNA01
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 2685Y-225CNG1SNA01
+Added Member To Class: ClassName=Sheet1 Member=Component JP3 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component U3 MAX3232IDR C18261
+Added Member To Class: ClassName=Sheet1 Member=Component U4 MAX485ESA+T
+Added Member To Class: ClassName=Sheet1 Member=Component UART1 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component UART2 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component UART3 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component UART4 HDR-1X2
+Added Member To Class: ClassName=Sheet1 Member=Component UART5 HDR-1X2

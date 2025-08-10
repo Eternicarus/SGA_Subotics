@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=FPC1-1
+Removed Pin From Net: NetName=5V Pin=FPC1-20
+Added Pin To Net: NetName=5V Pin=FPC1-1
+Added Pin To Net: NetName=GND Pin=FPC1-20

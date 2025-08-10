@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=JP3 Old Footprint=KF350-2P New Footprint=CONN-TH_2P-P3.81_KF2EDGR-3.81-2P
+Change Component Comment : Designator=JP3 Old Comment=HDR-1X2 New Comment=KF2EDGR-3.81-2P
+Change Component Comment : Designator=U4 Old Comment=MAX485ESA+T New Comment=MAX485
+Change Component Comment : Designator=U3 Old Comment=MAX3232IDR C18261 New Comment=MAX232IDR C18261
+Change component parameters: Designator = "JP3" ("JP3"); Footprint = "KF350-2P"; UniqueID = "\PHMBEIER" ("\PHMBEIER")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "ÂÌÉ«"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "°å¶Ë/²å×ù-±Õ¿Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230331/6258E6C6BF04EFF922F3E5A9E72A4547.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "°å¶Ë/²å×ù-±Õ¿Ú 1x2P 3.81mm ÅÅÊý:1 Ã¿ÅÅPÊý:2 ÍäÕë"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEFA(¿Æ·¢)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ÍäÕë"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "Íä²å,P=3.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C441182"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.81-2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"

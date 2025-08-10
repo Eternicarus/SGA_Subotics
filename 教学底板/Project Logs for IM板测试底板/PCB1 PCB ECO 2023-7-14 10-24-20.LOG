@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=Sheet1 Member=JP1
+Removed Member From Class: ClassName=Sheet1 Member=JP2
+Added Component: Designator=U??(HDR-TH_50P-P2.54-V-F-R2-C25-S2.54-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20181220/C350296_D2530F60C4B7AD26B2D0A354C76F8429.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holes Structure"; Value = "2x25P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "2.54mm 2x25P Y型//环保耐高温/镀金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "华宇创"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Holes"; Value = "50P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "双排"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C350296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "2685Y-225CNG1SNA01"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U?? 2685Y-225CNG1SNA01
