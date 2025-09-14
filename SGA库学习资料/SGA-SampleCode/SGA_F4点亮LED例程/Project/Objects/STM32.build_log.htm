@@ -1,0 +1,83 @@
+<html>
+<body>
+<pre>
+<h1>�Vision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.40.0.0
+Copyright (C) 2024 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 1 weiyuyiyu@outlook.com, 1, LIC=8VRJ7-E3SKD-II15V-PYGKL-50IQ8-ZINFA
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.40.0.3
+Toolchain Path:  D:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.40.0.3
+Dialog DLL:      DCM.DLL V1.17.5.0
+Target DLL:      Segger\JL2CM3.dll V2.99.44.0
+Dialog DLL:      TCM.DLL V1.56.4.0
+ 
+<h2>Project:</h2>
+D:\MINE\MY STM32\SGA\SGA-SampleCode\SGA_F4点亮LED例程\Project\STM32.uvprojx
+Project File Date:  04/27/2025
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.05 update 1 (build 106)', folder: 'D:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Demo'
+compiling stm32f4xx_hal_pwr_ex.c...
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h(6864): warning:  #47-D: incompatible redefinition of macro "IS_RCC_PERIPHCLOCK" (declared at line 6860)
+  #define IS_RCC_PERIPHCLOCK(SELECTION) ((1U <= (SELECTION)) && ((SELECTION) <= 0x0000000FU))
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h(1298): warning:  #47-D: incompatible redefinition of macro "GPIO_GET_INDEX" (declared at line 1267)
+  #define GPIO_GET_INDEX(__GPIOx__)    (uint8_t)(((__GPIOx__) == (GPIOA))? 0U :\
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h(1445): warning:  #47-D: incompatible redefinition of macro "IS_GPIO_AF" (declared at line 1397)
+  #define IS_GPIO_AF(AF)   (((AF) == GPIO_AF0_RTC_50Hz)   || ((AF) == GPIO_AF12_SDIO)      || \
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h(778): warning:  #47-D: incompatible redefinition of macro "FLASH_SECTOR_TOTAL" (declared at line 773)
+  #define FLASH_SECTOR_TOTAL  6U
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h(949): warning:  #47-D: incompatible redefinition of macro "IS_FLASH_SECTOR" (declared at line 940)
+  #define IS_FLASH_SECTOR(SECTOR) (((SECTOR) == FLASH_SECTOR_0)   || ((SECTOR) == FLASH_SECTOR_1)   ||\
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c(361): error:  #20: identifier "PWR_CR_MRLVDS_Pos" is undefined
+    *(__IO uint32_t *) CR_MRLVDS_BB = (uint32_t)ENABLE;
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c(372): error:  #20: identifier "PWR_CR_MRLVDS_Pos" is undefined
+    *(__IO uint32_t *) CR_MRLVDS_BB = (uint32_t)DISABLE;
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c(383): error:  #20: identifier "PWR_CR_LPLVDS_Pos" is undefined
+    *(__IO uint32_t *) CR_LPLVDS_BB = (uint32_t)ENABLE;
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c(394): error:  #20: identifier "PWR_CR_LPLVDS_Pos" is undefined
+    *(__IO uint32_t *) CR_LPLVDS_BB = (uint32_t)DISABLE;
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c: 5 warnings, 4 errors
+compiling stm32f4xx_hal_rcc_ex.c...
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h(6864): warning:  #47-D: incompatible redefinition of macro "IS_RCC_PERIPHCLOCK" (declared at line 6860)
+  #define IS_RCC_PERIPHCLOCK(SELECTION) ((1U <= (SELECTION)) && ((SELECTION) <= 0x0000000FU))
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h(1298): warning:  #47-D: incompatible redefinition of macro "GPIO_GET_INDEX" (declared at line 1267)
+  #define GPIO_GET_INDEX(__GPIOx__)    (uint8_t)(((__GPIOx__) == (GPIOA))? 0U :\
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h(1445): warning:  #47-D: incompatible redefinition of macro "IS_GPIO_AF" (declared at line 1397)
+  #define IS_GPIO_AF(AF)   (((AF) == GPIO_AF0_RTC_50Hz)   || ((AF) == GPIO_AF12_SDIO)      || \
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h(778): warning:  #47-D: incompatible redefinition of macro "FLASH_SECTOR_TOTAL" (declared at line 773)
+  #define FLASH_SECTOR_TOTAL  6U
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h(949): warning:  #47-D: incompatible redefinition of macro "IS_FLASH_SECTOR" (declared at line 940)
+  #define IS_FLASH_SECTOR(SECTOR) (((SECTOR) == FLASH_SECTOR_0)   || ((SECTOR) == FLASH_SECTOR_1)   ||\
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c(2660): error:  #136: struct "<unnamed>" has no field "DCKCFGR"
+    if ((RCC->DCKCFGR & RCC_DCKCFGR_TIMPRE) == RESET)
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c(2660): error:  #20: identifier "RCC_DCKCFGR_TIMPRE" is undefined
+    if ((RCC->DCKCFGR & RCC_DCKCFGR_TIMPRE) == RESET)
+..\Hardware\STM32F4XX\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c: 5 warnings, 2 errors
+".\Objects\STM32.axf" - 6 Error(s), 10 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F4xx_DFP.2.17.1.pack
+                Keil::STM32F4xx_DFP@2.17.1
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  D:/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include
+
+<h2>Collection of Component Files used:</h2>
+Target not created.
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
